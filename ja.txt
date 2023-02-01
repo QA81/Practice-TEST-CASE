@@ -1,6 +1,0 @@
-
-  (Windows)                (Linux)
-type nul> file.txt ===  touch file.txt
-start file.txt     ===  open file.txt  
-change 
-
